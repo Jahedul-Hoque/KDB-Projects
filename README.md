@@ -8,7 +8,7 @@ This repository showcases **real-world KDB+/q projects** focused on **financial 
 ## **📂 Projects in This Repo**
 | **Project Name**            | **Description** |
 |----------------------------|--------------------------------------|
-| 📈 To Be Confirmed | TBC |
+| 📈 [Market Data Analysis] | Load & clean market data, analyze trades & quotes |
 
 
 ## **🚀 How to Use This Repo**
