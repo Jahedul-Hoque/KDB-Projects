@@ -8,7 +8,7 @@ This repository showcases **real-world KDB+/q projects** focused on **financial 
 ## **📂 Projects in This Repo**
 | **Project Name**            | **Description** |
 |----------------------------|--------------------------------------|
-| 📈 Market Data Loader | Load & clean market data from raw CSV
+| 📈 Market Loader File | Load & clean market data from raw CSV
 
 
 ## **🚀 How to Use This Repo**
