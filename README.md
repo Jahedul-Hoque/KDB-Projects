@@ -1,11 +1,11 @@
-# 📊 KDB+ Financial Data Projects 🚀
 
+<h1 align="center">🚀 My KDB+ & qSQL Projects</h1>
 <p align="center">
-  <b>Documenting My journey learning KDB+ & qSQL as an End User Service Engineer at a HedgeFund</b>
+  <b>Documenting my journey learning KDB+ & qSQL as an End User Service Engineer at a HedgeFund</b>
 </p>
 
 ## **📌 Overview**
-This repository showcases **real-world KDB+/q projects** focused on **financial data analysis, market data processing, and trade analytics**.  Each project demonstrates **efficient querying, time-series analysis, and financial computations**, which are crucial skills for KDB developers in trading firms, hedge funds, and banks.
+This repository showcases **real-world KDB+/q projects** focused on **financial data analysis, market data processing, and trade analytics**.  Each project includes hands-on tasks such as **efficient querying, time-series analysis, and financial computations**, which are crucial skills for KDB developers in trading firms, hedge funds, and banks.
 
 ---
 
