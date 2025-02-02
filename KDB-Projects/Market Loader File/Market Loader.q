@@ -2,3 +2,7 @@
 rawData:("ISSISSIFFIFISI";enlist csv) 0: `$":C:/Users/44775/Downloads/data.csv"
 /outputs the file
 rawData
+columnNames: `TradeDate`Symbol`Exchange`TradeTime`TradePrice`TradeSize`BidPrice`AskPrice`BidSize`AskSize`Condition`Market
+rawData: `columnNames xcol rawData 
+
+rawData
