@@ -8,4 +8,4 @@ rawData
 /prints the schema of the table
 meta rawData
 
-//however this doesn't print the correct schema as the collumns are still not correctly named 
+//however this doesn't print the correct schema as the collumns are still not correctly named as it should be.
