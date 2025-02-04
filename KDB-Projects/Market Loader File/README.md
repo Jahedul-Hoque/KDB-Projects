@@ -84,3 +84,7 @@ Market    | i
 .0001     | s    
 11        | i  
 
+However, even then when you enter "rawData" to retrieve the table, you get some unneccessary collumns and some collumns in the wrong area.
+
+![image](https://github.com/user-attachments/assets/b8a45a4c-11f8-4ddb-a362-690b9901b5cd)
+
