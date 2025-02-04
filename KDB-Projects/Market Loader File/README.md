@@ -36,13 +36,13 @@ rawData:("ISSISSIFFIFISI";enlist csv) 0: `$":C:/Users/44775/Downloads/data.csv"
 
 ### Step 2: Assign Collumn Names
 
-columnNames: `TradeDate`Symbol`Exchange`TradeTime`TradePrice`TradeSize`BidPrice`AskPrice`BidSize`AskSize`Condition`Market
+#### columnNames: `TradeDate `Symbol `Exchange `TradeTime `TradePrice `TradeSize `BidPrice `AskPrice `BidSize `AskSize `Condition `Market
 
-rawData: `columnNames xcol rawData 
+#### rawData: `columnNames xcol rawData 
 
 ### Step 3: This is an example where the collumn names are still not appearing in the schema. You can test this by printing the schema
 
-meta rawData
+#### meta rawData
 
 output:
 
@@ -64,4 +64,23 @@ N1         | i
 11         | i 
 
 As you can see, the collumn names are not correctly displayed. This is because line 42 needs to be changed to "rawData: columnNames xcol rawData" which changes the data type of columnName from an atom to a variable that contains multiple values.
+
+The output is now:
+
+c         | t f a
+----------| -----
+TradeDate | i    
+Symbol    | s    
+Exchange  | s    
+TradeTime | i    
+TradePrice| s    
+TradeSize | s    
+BidPrice  | i    
+AskPrice  | f    
+BidSize   | f    
+AskSize   | i    
+Condition | f    
+Market    | i    
+.0001     | s    
+11        | i  
 
