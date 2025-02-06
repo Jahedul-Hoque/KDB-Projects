@@ -46,6 +46,6 @@ If you're new to KDB+/q, check out my Introduction to KDB Repo for fundamentals 
 ### [Click here](https://github.com/Jahedul-Hoque/Intro-to-KDB-q.git) to learn the KDB+q Fundementals
 
 ## 🤝 Let's Connect!
-I'm actively exploring quant finance & KDB+q development. Feel free to fork this repository, contribute, or reach out to me!
+I'm actively exploring quant finance & KDB+q development. Feel free to fork this repository, contribute, and reach out to me!
 
 ### [Linkedin](https://www.linkedin.com/in/jahedul-hoque) 💌
