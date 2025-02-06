@@ -21,7 +21,7 @@ This repository showcases **real-world KDB+/q projects** focused on **financial 
 ### 🟡 Intermediate Level 
 | Project | Description | Status |
 |---------|------------|--------|
-| **Order Book Simulation & Market Replay** | Store and replay historical order book data, analyze order flow. | ⏳ Upcoming |
+| **Order Book Simulation & Market Replay** | Store and replay historical order book data, analyse order flow. | ⏳ Upcoming |
 | **Algorithmic Trading Strategy Backtester** | Backtest strategies like mean reversion, momentum trading. | ⏳ Upcoming |
 | **Portfolio Risk Management System** | Monitor P&L, risk factors, and compute Value at Risk (VaR). | ⏳ Upcoming |
 
