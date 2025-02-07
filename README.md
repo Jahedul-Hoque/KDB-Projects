@@ -15,7 +15,7 @@ This repository showcases **real-world KDB+/q projects** focused on **financial 
 |---------|------------|--------|
 | **Market Data Loader** | Loading data and cleaning RAW CSV files | 🔄 In Progress |
 | **Basic Time-Series Database Setup** | Store and query time-series data like temperature readings or website traffic logs. | ⏳ Upcoming |
-| **Stock Market Data Storage & Querying** | Store daily OHLC stock prices and compute simple metrics like moving averages. | ⏳ Upcoming |
+| **Stock Market Data Storage & Querying** | Store daily OHLC stock prices and compute simple metrics like moving averages. | ⏳ Upcoming |   
 | **Simple Event-Based Alert System** | Implement a KDB+ ticker plant to generate alerts for market events. | ⏳ Upcoming |
 
 ### 🟡 Intermediate Level 
