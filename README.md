@@ -1,4 +1,4 @@
-
+  
 <h1 align="center">🚀 My KDB+ & qSQL Projects</h1>
 <p align="center">
   <b>Documenting my journey learning KDB+ & qSQL as an End User Service Engineer at a HedgeFund</b>
